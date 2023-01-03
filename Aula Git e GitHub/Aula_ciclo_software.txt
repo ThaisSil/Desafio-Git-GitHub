@@ -1,0 +1,87 @@
+### Ciclo de desenvolvimento de Software e metodologias ágeis
+
+
+
+* Compreender o ciclo de vida do software e seus
+  processos, bem como entender como a qualidade
+  e os testes atuam nos processos, tendo como foco
+  o pensamento ágil.
+* Todos os envolvidos são diretamente ou
+  indiretamente responsáveis.
+  ➔ Gera estabilidade, controle e organização dentro
+  do contexto.
+  ➔ Processos são adaptáveis de acordo com o
+  produto a ser construído.
+
+### Padrões de processo
+
+➔ Descreve um problema de processo e sugere soluções de
+acordo com o contexto
+➔ Pode ser definido para qualquer nível de abstração
+➔ Abordagens de avaliação e aperfeiçoamento:
+
+* SCAMPI( Standard CMMI Assessment Method for Process
+  Improvement)
+*  CBA IPI( CMM-Based Appraisal for internal Process
+  Improvement)
+*  SPICE( ISO/IEC 15504) - requisitos para avaliação de processos
+  de software
+*  ISO 9001:2000
+
+### Scrum
+
+* Criado por Jeff Sutherland no início dos anos 1990 e desde então vem
+  sendo revisado
+*  “Framework leve que ajuda pessoas, times e organizações a gerar
+  valor por meio de soluções adaptativas para problemas complexos.”
+*  Baseado no empirismo e lean thinking
+*  Iterativo e incremental
+*  Eventos formais para inspeção e adaptação
+
+Um pequeno time de pessoas sem hierarquia
+
+* Scrum master
+* Product owner
+* Developers
+
+O **Scrum Team** são multifuncionais e autogerenciáveis, responsáveis por todas as atividades relacionadas ao produtos.
+
+### Eventos : A Sprint
+
+São eventos de duração fixa com objetivo de gerar incremento (Geranlmente de 2 a 4 semanas), a meta da **Sprint** não deve ser mudada, ela poderá sofrer algumas adaptações, mas não mudança de meta. O foco da **Sprint** é na qualidade! 
+
+#### Atividades:
+
+### Eventos : Planning
+
+*  Inicia sprint : definição do trabalho a ser realizado
+*  Porque essa sprint é valiosa?
+*  O que pode ser feito nesta Sprint?
+*  Como o trabalho será realizado?
+*  Criação do Sprint Backlog
+
+### Eventos : Daily
+
+* Inspeção em direção à meta da sprint
+*  Adaptação do Sprint Backlog
+*  Curta duração/diariamente
+*  Plano de trabalho
+*  Comunicação
+*  Remoção de impedimento
+
+### Eventos : Sprint review
+
+* Apresentar e inspecionar resultados
+* Determinar adaptações
+*  Ajuste no Product Backlog
+*  Scrum Team + Stakeholders
+*  Penúltimo evento da sprint
+
+### Eventos : Sprint retrospective
+
+* Planejamento voltado para qualidade e eficácia
+*  Inspeção de processos, interações, ferramentas…
+*  O que funcionou?
+*  O que não funcionou?
+*  Como foi resolvido?
+*  Conclusão da sprint
